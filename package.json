@@ -4,7 +4,7 @@
   "description": "Simple User Management App",
   "main": "app.js",
   "scripts": {
-    "start": "node appno"
+    "start": "node app"
   },
   "author": "Paul T",
   "license": "ISC",
